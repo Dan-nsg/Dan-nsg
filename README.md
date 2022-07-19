@@ -26,9 +26,11 @@
 <br>
 <br>
 <div> 
-  <a href = "mailto:dnsgiani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-giani-060301176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div style="display: inline_block" align="right">
     <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDan-nsg"><img height="20em" src="https://img.shields.io/github/followers/Dan-nsg.svg?style=social&label=Follow&maxAge=2592000"/></a>
+    <br>
+    <br>
+    <a href = "mailto:dnsgiani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-giani-060301176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 </div>
