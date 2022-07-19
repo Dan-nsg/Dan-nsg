@@ -15,8 +15,8 @@
 <br>
 <div align="center" display="inline_block">
   <a href="https://github.com/Dan-nsg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dan-nsg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-nsg&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dan-nsg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-nsg&theme=dark"/>
 </div>
 
 <br>
