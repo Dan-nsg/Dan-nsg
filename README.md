@@ -13,9 +13,10 @@
 </div>
 <br>
 <br>
-<div align="center">
+<div align="center" display="inline_block">
   <a href="https://github.com/Dan-nsg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan-nsg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-nsg&theme=dark"/>
 </div>
 
 <br>
@@ -30,6 +31,7 @@
     <br>
     <br>
     <a href = "mailto:dnsgiani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-giani-060301176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/daniel-giani-060301176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href ="https://open.spotify.com/user/12144622594"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   </div>
 </div>
